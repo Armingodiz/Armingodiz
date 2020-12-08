@@ -1,4 +1,4 @@
 
 
 
-![pic](https://huiyie.github.io/assets/media/golang.gif)
+![pic](https://little.kylerconway.com/images/golang-what.gif)
